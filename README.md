@@ -5,10 +5,10 @@ Estou a desenvolver competências práticas em cibersegurança através de proje
 <br>
 <br>
 Competências:<br>
-  Python (básico – leitura e interpretação de código)<br>
+  Python (básico)<br>
   Linux (básico)<br>
   Networking (fundamentos)<br>
-  Fundamentos de cibersegurança (Certificado Google Cybersecurity)<br>
+  Fundamentos de cibersegurança (<a href = "https://www.credly.com/badges/57aaeeb9-83a9-407a-8222-b3b78dc6d87e">Certificado Google Cybersecurity</a>)<br>
   Análise de logs e deteção de ameaças (em desenvolvimento)<br>
   Wazuh (em aprendizagem)<br>
 <br>
